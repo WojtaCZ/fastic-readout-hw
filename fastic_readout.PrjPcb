@@ -170,23 +170,6 @@ GenerateClassCluster=0
 DocumentUniqueId=OYHBYGCI
 
 [Document8]
-DocumentPath=fastic_readout.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document9]
 DocumentPath=mcu.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -203,24 +186,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CZTTXDQM
 
-[Document10]
-DocumentPath=fastic_readout.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NKBVIOIF
-
-[Document11]
+[Document9]
 DocumentPath=fastic_readout.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -237,8 +203,110 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document10]
 DocumentPath=fastic_readout.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document11]
+DocumentPath=usb.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XOJTWLUY
+
+[Document12]
+DocumentPath=usb.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document13]
+DocumentPath=mcu.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document14]
+DocumentPath=fastic_readout1\fastic_readout.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document15]
+DocumentPath=fastic_readout1\fastic_readout.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document16]
+DocumentPath=fastic.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -259,180 +327,144 @@ UniqueId=0698becd-389d-46dc-a2cb-4d4d58174c9c
 Description=fastic_readout
 AllowFabrication=0
 ParameterCount=0
-VariationCount=46
-Variation1=Designator=R72|UniqueId=\FKRLXLDK|Kind=1|AlternatePart=
-Variation2=Designator=R73|UniqueId=\TOXHTPSW|Kind=1|AlternatePart=
-Variation3=Designator=U1|UniqueId=\ZYXPZPZT\YFUPEVVW|Kind=0|AlternatePart=
-Variation4=Designator=IC28|UniqueId=\SRLGKQPG\XCHXDEVQ|Kind=1|AlternatePart=
-Variation5=Designator=IC29|UniqueId=\SRLGKQPG\QYUIEART|Kind=1|AlternatePart=
-Variation6=Designator=C86|UniqueId=\ABPTTAPX\QXLFDXWF|Kind=1|AlternatePart=
-Variation7=Designator=IC19|UniqueId=\ABPTTAPX\OBIOAXRJ|Kind=1|AlternatePart=
-Variation8=Designator=R33|UniqueId=\ABPTTAPX\OFFAMLXH|Kind=1|AlternatePart=
-Variation9=Designator=C87|UniqueId=\ABPTTAPX\KJTMVIQN|Kind=1|AlternatePart=
-Variation10=Designator=R34|UniqueId=\ABPTTAPX\EURWKVWT|Kind=1|AlternatePart=
-Variation11=Designator=C88|UniqueId=\ABPTTAPX\YRQWSNIW|Kind=1|AlternatePart=
-Variation12=Designator=FTG1|UniqueId=\NUAAWSOF|Kind=1|AlternatePart=
-Variation13=Designator=FTG2|UniqueId=\FCGPGLSB|Kind=1|AlternatePart=
-Variation14=Designator=FTG3|UniqueId=\IFVJCJQF|Kind=1|AlternatePart=
-Variation15=Designator=FTG4|UniqueId=\SRFVNLKU|Kind=1|AlternatePart=
-Variation16=Designator=FTG5|UniqueId=\BPJKYFUT|Kind=1|AlternatePart=
-Variation17=Designator=FTG6|UniqueId=\JZVPJCLC|Kind=1|AlternatePart=
-Variation18=Designator=TP1|UniqueId=\EUPLOTKP|Kind=1|AlternatePart=
-Variation19=Designator=TP2|UniqueId=\NXOSFZLW|Kind=1|AlternatePart=
-Variation20=Designator=TP3|UniqueId=\LDSJCONZ|Kind=1|AlternatePart=
-Variation21=Designator=TP6|UniqueId=\DGEWBDKW|Kind=1|AlternatePart=
-Variation22=Designator=TP7|UniqueId=\INXFHHNJ|Kind=1|AlternatePart=
-Variation23=Designator=TP8|UniqueId=\IBGAYHJR|Kind=1|AlternatePart=
-Variation24=Designator=TP4|UniqueId=\AQTAVMKF|Kind=1|AlternatePart=
-Variation25=Designator=TP5|UniqueId=\HTYYIATG|Kind=1|AlternatePart=
-Variation26=Designator=TP9|UniqueId=\UEHUAMLX|Kind=1|AlternatePart=
-Variation27=Designator=TP10|UniqueId=\HNIGKSLX|Kind=1|AlternatePart=
-Variation28=Designator=TP11|UniqueId=\PZDYMHVP|Kind=1|AlternatePart=
-Variation29=Designator=TP12|UniqueId=\RMAGWNDN|Kind=1|AlternatePart=
-Variation30=Designator=TP16|UniqueId=\WAPEYBHF|Kind=1|AlternatePart=
-Variation31=Designator=TP15|UniqueId=\UAKBRGAV|Kind=1|AlternatePart=
-Variation32=Designator=TP14|UniqueId=\PNHQWFIZ|Kind=1|AlternatePart=
-Variation33=Designator=TP13|UniqueId=\VYRZMHNC|Kind=1|AlternatePart=
-Variation34=Designator=C49|UniqueId=\HQTZEJZR|Kind=1|AlternatePart=
-Variation35=Designator=C39|UniqueId=\PGLJGNCR|Kind=1|AlternatePart=
-Variation36=Designator=F1|UniqueId=\SVVZYWYI|Kind=1|AlternatePart=
-Variation37=Designator=IC13|UniqueId=\ZYXPZPZT\APQHIMGO|Kind=1|AlternatePart=
-Variation38=Designator=J8|UniqueId=\ZYXPZPZT\NUBIKHJW|Kind=1|AlternatePart=
-Variation39=Designator=J2|UniqueId=\LDLTZUPX|Kind=1|AlternatePart=
-Variation40=Designator=J4|UniqueId=\SDSZCWCA|Kind=1|AlternatePart=
-Variation41=Designator=J1|UniqueId=\HKEEKVHR|Kind=1|AlternatePart=
-Variation42=Designator=J3|UniqueId=\BYATLWDJ|Kind=1|AlternatePart=
-Variation43=Designator=J9|UniqueId=\FHJLKTEO|Kind=1|AlternatePart=
-Variation44=Designator=R19|UniqueId=\WEPBJUKM|Kind=1|AlternatePart=
-Variation45=Designator=R52|UniqueId=\SRLGKQPG\NSQGYMSH|Kind=1|AlternatePart=
-Variation46=Designator=L2|UniqueId=\ABPTTAPX\XERNEFII|Kind=1|AlternatePart=
+VariationCount=14
+Variation1=Designator=IC28|UniqueId=\SRLGKQPG\XCHXDEVQ|Kind=1|AlternatePart=
+Variation2=Designator=IC29|UniqueId=\SRLGKQPG\QYUIEART|Kind=1|AlternatePart=
+Variation3=Designator=FTG1|UniqueId=\NUAAWSOF|Kind=1|AlternatePart=
+Variation4=Designator=FTG2|UniqueId=\FCGPGLSB|Kind=1|AlternatePart=
+Variation5=Designator=FTG3|UniqueId=\IFVJCJQF|Kind=1|AlternatePart=
+Variation6=Designator=FTG4|UniqueId=\SRFVNLKU|Kind=1|AlternatePart=
+Variation7=Designator=FTG5|UniqueId=\BPJKYFUT|Kind=1|AlternatePart=
+Variation8=Designator=FTG6|UniqueId=\JZVPJCLC|Kind=1|AlternatePart=
+Variation9=Designator=TP9|UniqueId=\UEHUAMLX|Kind=1|AlternatePart=
+Variation10=Designator=TP10|UniqueId=\HNIGKSLX|Kind=1|AlternatePart=
+Variation11=Designator=TP11|UniqueId=\PZDYMHVP|Kind=1|AlternatePart=
+Variation12=Designator=TP12|UniqueId=\RMAGWNDN|Kind=1|AlternatePart=
+Variation13=Designator=R52|UniqueId=\SRLGKQPG\NSQGYMSH|Kind=1|AlternatePart=
+Variation14=Designator=L2|UniqueId=\ABPTTAPX\XERNEFII|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for fastic_readout\Design Rule Check - fastic_readout.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout.REP
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_3.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_4.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_5.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_6.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Drawing_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Drillmap_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Keep-out.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Mechanical_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Mechanical_5.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Mechanical_8.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Mechanical_13.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Mechanical_14.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Mechanical_15.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_NPTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Pads_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Pads_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Profile.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_PTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument30]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument31]
 DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Soldermask_Top.gbr
 DItemRevisionGUID=
 
@@ -747,6 +779,11 @@ OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
+OutputType4=Wire Bonding Table
+OutputName4=Wire Bonding Table Report
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -1147,6 +1184,18 @@ Type135=1
 Type136=1
 Type137=1
 Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=1
+Type148=1
+Type149=1
+Type150=1
 
 [Difference Levels]
 Type1=1
@@ -1223,6 +1272,13 @@ Type71=1
 Type72=1
 Type73=1
 Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1378,6 +1434,7 @@ Type150=2
 Type151=2
 Type152=1
 Type153=1
+Type154=0
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1425,11 +1482,17 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Connectors.DbLib/AMPHENOL
-ComponentDesignItemID0=AMPHENOL_132203
-ComponentSymbolReference0=Coax_1Female_1Shield
+ComponentLibraryIdentifier0=fastic_readout.SCHLIB
+ComponentDesignItemID0=PCA9306DQER
+ComponentSymbolReference0=PCA9306DQER
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Resistors.DbLib/Resistors SMD
+ComponentDesignItemID1=R0402_0R_JUMPER
+ComponentSymbolReference1=Resistor
+ComponentUpdate1=0
+ComponentIsDeviceSheet1=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1445,55 +1508,64 @@ RemoveModels=1
 UpdateCurrentModels=1
 ParameterName0=Author
 ParameterUpdate0=1
-ParameterName1=Comment
+ParameterName1=Case
 ParameterUpdate1=1
-ParameterName2=Component Kind
+ParameterName2=Comment
 ParameterUpdate2=1
-ParameterName3=Component Type
+ParameterName3=Component Kind
 ParameterUpdate3=1
-ParameterName4=ComponentHeight
+ParameterName4=Component Type
 ParameterUpdate4=1
 ParameterName5=CreateDate
 ParameterUpdate5=1
 ParameterName6=Description
 ParameterUpdate6=1
-ParameterName7=Family
+ParameterName7=Footprint
 ParameterUpdate7=1
-ParameterName8=Footprint
+ParameterName8=HelpURL
 ParameterUpdate8=1
-ParameterName9=HelpURL
+ParameterName9=LatestRevisionDate
 ParameterUpdate9=1
-ParameterName10=LatestRevisionDate
+ParameterName10=Library Reference
 ParameterUpdate10=1
-ParameterName11=Library Reference
+ParameterName11=Manufacturer
 ParameterUpdate11=1
-ParameterName12=Manufacturer
+ParameterName12=Manufacturer Part Number
 ParameterUpdate12=1
-ParameterName13=Manufacturer Part Number
+ParameterName13=Manufacturer1 ComponentHeight
 ParameterUpdate13=1
-ParameterName14=Mounted
+ParameterName14=Manufacturer1 Example
 ParameterUpdate14=1
-ParameterName15=Part Description
+ParameterName15=Manufacturer1 Part Number
 ParameterUpdate15=1
-ParameterName16=Part Number
+ParameterName16=Mounted
 ParameterUpdate16=1
-ParameterName17=Pin Count
+ParameterName17=Part Description
 ParameterUpdate17=1
-ParameterName18=PressFit
+ParameterName18=Part Number
 ParameterUpdate18=1
-ParameterName19=Sense
+ParameterName19=Pin Count
 ParameterUpdate19=1
-ParameterName20=SMD
+ParameterName20=PressFit
 ParameterUpdate20=1
-ParameterName21=Socket
+ParameterName21=Sense
 ParameterUpdate21=1
-ParameterName22=Status
+ParameterName22=SMD
 ParameterUpdate22=1
+ParameterName23=Socket
+ParameterUpdate23=1
+ParameterName24=Status
+ParameterUpdate24=1
+ParameterName25=Value
+ParameterUpdate25=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=AMPHENOL_132203
+ModelName0=RESC1005X40N
 ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=SON35P100X140X40-8N
+ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
