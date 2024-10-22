@@ -1482,17 +1482,11 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=fastic_readout.SCHLIB
-ComponentDesignItemID0=PCA9306DQER
-ComponentSymbolReference0=PCA9306DQER
+ComponentLibraryIdentifier0=STM32H753AII6.SchLib
+ComponentDesignItemID0=STM32H753AII6
+ComponentSymbolReference0=STM32H753AII6
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=Resistors.DbLib/Resistors SMD
-ComponentDesignItemID1=R0402_0R_JUMPER
-ComponentSymbolReference1=Resistor
-ComponentUpdate1=0
-ComponentIsDeviceSheet1=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1506,66 +1500,25 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Author
+ParameterName0=Comment
 ParameterUpdate0=1
-ParameterName1=Case
+ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Comment
+ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=Component Kind
+ParameterName3=Library Reference
 ParameterUpdate3=1
-ParameterName4=Component Type
+ParameterName4=Mfr_Name
 ParameterUpdate4=1
-ParameterName5=CreateDate
+ParameterName5=RefDes
 ParameterUpdate5=1
-ParameterName6=Description
+ParameterName6=Type
 ParameterUpdate6=1
-ParameterName7=Footprint
-ParameterUpdate7=1
-ParameterName8=HelpURL
-ParameterUpdate8=1
-ParameterName9=LatestRevisionDate
-ParameterUpdate9=1
-ParameterName10=Library Reference
-ParameterUpdate10=1
-ParameterName11=Manufacturer
-ParameterUpdate11=1
-ParameterName12=Manufacturer Part Number
-ParameterUpdate12=1
-ParameterName13=Manufacturer1 ComponentHeight
-ParameterUpdate13=1
-ParameterName14=Manufacturer1 Example
-ParameterUpdate14=1
-ParameterName15=Manufacturer1 Part Number
-ParameterUpdate15=1
-ParameterName16=Mounted
-ParameterUpdate16=1
-ParameterName17=Part Description
-ParameterUpdate17=1
-ParameterName18=Part Number
-ParameterUpdate18=1
-ParameterName19=Pin Count
-ParameterUpdate19=1
-ParameterName20=PressFit
-ParameterUpdate20=1
-ParameterName21=Sense
-ParameterUpdate21=1
-ParameterName22=SMD
-ParameterUpdate22=1
-ParameterName23=Socket
-ParameterUpdate23=1
-ParameterName24=Status
-ParameterUpdate24=1
-ParameterName25=Value
-ParameterUpdate25=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=RESC1005X40N
+ModelName0=UFBGA169
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=SON35P100X140X40-8N
-ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
@@ -1574,28 +1527,46 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=AVDD|NetColor=$006EFF6E
-Net2=NetName=CVDD|NetColor=$00C3E9AE
-Net3=NetName=DVDD|NetColor=$00220EEE
-Net4=NetName=HV|NetColor=$000083FD
-Net5=NetName=HV97|NetColor=$00220EEE
-Net6=NetName=HV99|NetColor=$00220EEE
-Net7=NetName=M5V_inj|NetColor=$00C7A956
-Net8=NetName=M6V5|NetColor=$006EA300
-Net9=NetName=NetIC18_2_33|NetColor=$006E6EFF
-Net10=NetName=NetIC18_33|NetColor=$006E6EFF
-Net11=NetName=NetU1_3|NetColor=$006E6EFF
-Net12=NetName=OVDD|NetColor=$000083FD
-Net13=NetName=P2V5|NetColor=clYellow
-Net14=NetName=P3V3|NetColor=$0000BE00
-Net15=NetName=P5V|NetColor=clYellow
-Net16=NetName=P5V_inj|NetColor=$00BDC3FF
-Net17=NetName=P6V5|NetColor=$00FF6EFF
-Net18=NetName=pin 97 HV|NetColor=$00220EEE
-Net19=NetName=pin 99 HV|NetColor=$00220EEE
-Net20=NetName=TVDD|NetColor=$00FFFF6E
-Net21=NetName=VIN_REG_M5V_INJ|NetColor=$006EA300
-Net22=NetName=XVDD|NetColor=$008F9BAF
+Net1=NetName=+3V3|NetColor=$006EFF6E
+Net2=NetName=AVDD|NetColor=$006EFF6E
+Net3=NetName=CVDD|NetColor=$00C3E9AE
+Net4=NetName=DVDD|NetColor=$00220EEE
+Net5=NetName=HV|NetColor=$000083FD
+Net6=NetName=HV97|NetColor=$00220EEE
+Net7=NetName=HV99|NetColor=$00220EEE
+Net8=NetName=M5V_inj|NetColor=$00C7A956
+Net9=NetName=M6V5|NetColor=$006EA300
+Net10=NetName=N00000|NetColor=$006EFF6E
+Net11=NetName=NetIC18_2_33|NetColor=$006E6EFF
+Net12=NetName=NetIC18_33|NetColor=$006E6EFF
+Net13=NetName=NetU1_3|NetColor=$006E6EFF
+Net14=NetName=OVDD|NetColor=$000083FD
+Net15=NetName=P2V5|NetColor=clYellow
+Net16=NetName=P3V3|NetColor=$0000BE00
+Net17=NetName=P5V|NetColor=clYellow
+Net18=NetName=P5V_inj|NetColor=$00BDC3FF
+Net19=NetName=P6V5|NetColor=$00FF6EFF
+Net20=NetName=pin 97 HV|NetColor=$00220EEE
+Net21=NetName=pin 99 HV|NetColor=$00220EEE
+Net22=NetName=SWCLK|NetColor=$006EFF6E
+Net23=NetName=SWDIO|NetColor=$006EFF6E
+Net24=NetName=SWO|NetColor=$006EFF6E
+Net25=NetName=TVDD|NetColor=$00FFFF6E
+Net26=NetName=ULPI_CLK|NetColor=$006EFF6E
+Net27=NetName=ULPI_D0|NetColor=$006EFF6E
+Net28=NetName=ULPI_D1|NetColor=$006EFF6E
+Net29=NetName=ULPI_D2|NetColor=$006EFF6E
+Net30=NetName=ULPI_D3|NetColor=$006EFF6E
+Net31=NetName=ULPI_D4|NetColor=$006EFF6E
+Net32=NetName=ULPI_D5|NetColor=$006EFF6E
+Net33=NetName=ULPI_D6|NetColor=$006EFF6E
+Net34=NetName=ULPI_D7|NetColor=$006EFF6E
+Net35=NetName=ULPI_DIR|NetColor=$006EFF6E
+Net36=NetName=ULPI_NXT|NetColor=$006EFF6E
+Net37=NetName=ULPI_RST|NetColor=$006EFF6E
+Net38=NetName=ULPI_STP|NetColor=$006EFF6E
+Net39=NetName=VIN_REG_M5V_INJ|NetColor=$006EA300
+Net40=NetName=XVDD|NetColor=$008F9BAF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
