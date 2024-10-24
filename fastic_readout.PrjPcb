@@ -227,7 +227,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -286,7 +286,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HUGCVRXC
 
 [Document15]
 DocumentPath=fastic_readout1\fastic_readout.SCHLIB
@@ -303,7 +303,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RPIUITYF
 
 [Document16]
 DocumentPath=fastic.Harness
@@ -322,26 +322,70 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document17]
+DocumentPath=top.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document18]
+DocumentPath=clock.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document19]
+DocumentPath=fastic_readout.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JGRNLQEZ
+
 [ProjectVariant1]
 UniqueId=0698becd-389d-46dc-a2cb-4d4d58174c9c
 Description=fastic_readout
 AllowFabrication=0
 ParameterCount=0
-VariationCount=14
-Variation1=Designator=IC28|UniqueId=\SRLGKQPG\XCHXDEVQ|Kind=1|AlternatePart=
-Variation2=Designator=IC29|UniqueId=\SRLGKQPG\QYUIEART|Kind=1|AlternatePart=
-Variation3=Designator=FTG1|UniqueId=\NUAAWSOF|Kind=1|AlternatePart=
-Variation4=Designator=FTG2|UniqueId=\FCGPGLSB|Kind=1|AlternatePart=
-Variation5=Designator=FTG3|UniqueId=\IFVJCJQF|Kind=1|AlternatePart=
-Variation6=Designator=FTG4|UniqueId=\SRFVNLKU|Kind=1|AlternatePart=
-Variation7=Designator=FTG5|UniqueId=\BPJKYFUT|Kind=1|AlternatePart=
-Variation8=Designator=FTG6|UniqueId=\JZVPJCLC|Kind=1|AlternatePart=
-Variation9=Designator=TP9|UniqueId=\UEHUAMLX|Kind=1|AlternatePart=
-Variation10=Designator=TP10|UniqueId=\HNIGKSLX|Kind=1|AlternatePart=
-Variation11=Designator=TP11|UniqueId=\PZDYMHVP|Kind=1|AlternatePart=
-Variation12=Designator=TP12|UniqueId=\RMAGWNDN|Kind=1|AlternatePart=
-Variation13=Designator=R52|UniqueId=\SRLGKQPG\NSQGYMSH|Kind=1|AlternatePart=
-Variation14=Designator=L2|UniqueId=\ABPTTAPX\XERNEFII|Kind=1|AlternatePart=
+VariationCount=7
+Variation1=Designator=FTG1|UniqueId=\NUAAWSOF|Kind=1|AlternatePart=
+Variation2=Designator=FTG2|UniqueId=\FCGPGLSB|Kind=1|AlternatePart=
+Variation3=Designator=FTG3|UniqueId=\IFVJCJQF|Kind=1|AlternatePart=
+Variation4=Designator=FTG4|UniqueId=\SRFVNLKU|Kind=1|AlternatePart=
+Variation5=Designator=FTG5|UniqueId=\BPJKYFUT|Kind=1|AlternatePart=
+Variation6=Designator=FTG6|UniqueId=\JZVPJCLC|Kind=1|AlternatePart=
+Variation7=Designator=L2|UniqueId=\ABPTTAPX\XERNEFII|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -1321,7 +1365,7 @@ Type37=1
 Type38=2
 Type39=2
 Type40=2
-Type41=0
+Type41=1
 Type42=2
 Type43=1
 Type44=0
@@ -1434,7 +1478,7 @@ Type150=2
 Type151=2
 Type152=1
 Type153=1
-Type154=0
+Type154=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1482,9 +1526,9 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=STM32H753AII6.SchLib
-ComponentDesignItemID0=STM32H753AII6
-ComponentSymbolReference0=STM32H753AII6
+ComponentLibraryIdentifier0=STM32H753XIH6.SchLib
+ComponentDesignItemID0=STM32H753XIH6
+ComponentSymbolReference0=STM32H753XIH6
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1517,7 +1561,7 @@ ParameterUpdate6=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=UFBGA169
+ModelName0=TFBGA240+25_STM
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
@@ -1525,48 +1569,6 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-
-[NetInfos]
-Net1=NetName=+3V3|NetColor=$006EFF6E
-Net2=NetName=AVDD|NetColor=$006EFF6E
-Net3=NetName=CVDD|NetColor=$00C3E9AE
-Net4=NetName=DVDD|NetColor=$00220EEE
-Net5=NetName=HV|NetColor=$000083FD
-Net6=NetName=HV97|NetColor=$00220EEE
-Net7=NetName=HV99|NetColor=$00220EEE
-Net8=NetName=M5V_inj|NetColor=$00C7A956
-Net9=NetName=M6V5|NetColor=$006EA300
-Net10=NetName=N00000|NetColor=$006EFF6E
-Net11=NetName=NetIC18_2_33|NetColor=$006E6EFF
-Net12=NetName=NetIC18_33|NetColor=$006E6EFF
-Net13=NetName=NetU1_3|NetColor=$006E6EFF
-Net14=NetName=OVDD|NetColor=$000083FD
-Net15=NetName=P2V5|NetColor=clYellow
-Net16=NetName=P3V3|NetColor=$0000BE00
-Net17=NetName=P5V|NetColor=clYellow
-Net18=NetName=P5V_inj|NetColor=$00BDC3FF
-Net19=NetName=P6V5|NetColor=$00FF6EFF
-Net20=NetName=pin 97 HV|NetColor=$00220EEE
-Net21=NetName=pin 99 HV|NetColor=$00220EEE
-Net22=NetName=SWCLK|NetColor=$006EFF6E
-Net23=NetName=SWDIO|NetColor=$006EFF6E
-Net24=NetName=SWO|NetColor=$006EFF6E
-Net25=NetName=TVDD|NetColor=$00FFFF6E
-Net26=NetName=ULPI_CLK|NetColor=$006EFF6E
-Net27=NetName=ULPI_D0|NetColor=$006EFF6E
-Net28=NetName=ULPI_D1|NetColor=$006EFF6E
-Net29=NetName=ULPI_D2|NetColor=$006EFF6E
-Net30=NetName=ULPI_D3|NetColor=$006EFF6E
-Net31=NetName=ULPI_D4|NetColor=$006EFF6E
-Net32=NetName=ULPI_D5|NetColor=$006EFF6E
-Net33=NetName=ULPI_D6|NetColor=$006EFF6E
-Net34=NetName=ULPI_D7|NetColor=$006EFF6E
-Net35=NetName=ULPI_DIR|NetColor=$006EFF6E
-Net36=NetName=ULPI_NXT|NetColor=$006EFF6E
-Net37=NetName=ULPI_RST|NetColor=$006EFF6E
-Net38=NetName=ULPI_STP|NetColor=$006EFF6E
-Net39=NetName=VIN_REG_M5V_INJ|NetColor=$006EA300
-Net40=NetName=XVDD|NetColor=$008F9BAF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
