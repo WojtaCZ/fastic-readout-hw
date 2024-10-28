@@ -378,7 +378,7 @@ UniqueId=0698becd-389d-46dc-a2cb-4d4d58174c9c
 Description=fastic_readout
 AllowFabrication=0
 ParameterCount=0
-VariationCount=7
+VariationCount=13
 Variation1=Designator=FTG1|UniqueId=\NUAAWSOF|Kind=1|AlternatePart=
 Variation2=Designator=FTG2|UniqueId=\FCGPGLSB|Kind=1|AlternatePart=
 Variation3=Designator=FTG3|UniqueId=\IFVJCJQF|Kind=1|AlternatePart=
@@ -386,6 +386,12 @@ Variation4=Designator=FTG4|UniqueId=\SRFVNLKU|Kind=1|AlternatePart=
 Variation5=Designator=FTG5|UniqueId=\BPJKYFUT|Kind=1|AlternatePart=
 Variation6=Designator=FTG6|UniqueId=\JZVPJCLC|Kind=1|AlternatePart=
 Variation7=Designator=L2|UniqueId=\ABPTTAPX\XERNEFII|Kind=1|AlternatePart=
+Variation8=Designator=R107|UniqueId=\WHGEGIJK\NEOOLUUH|Kind=0|AlternatePart=
+Variation9=Designator=R95|UniqueId=\WHGEGIJK\XAVNKEKU|Kind=1|AlternatePart=
+Variation10=Designator=R93|UniqueId=\WHGEGIJK\DXOSYXGE|Kind=1|AlternatePart=
+Variation11=Designator=R91|UniqueId=\WHGEGIJK\WQFVMPVF|Kind=1|AlternatePart=
+Variation12=Designator=R112|UniqueId=\WHGEGIJK\TUFMDXRM|Kind=1|AlternatePart=
+Variation13=Designator=R111|UniqueId=\WHGEGIJK\OTJFWAWN|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
