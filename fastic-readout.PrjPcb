@@ -85,7 +85,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RVATNPJO
 
 [Document3]
-DocumentPath=fastic_readout.OutJob
+DocumentPath=fastic-readout.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -102,7 +102,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=fastic_readout.PcbDoc
+DocumentPath=fastic-readout.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -187,7 +187,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CZTTXDQM
 
 [Document9]
-DocumentPath=fastic_readout.BomDoc
+DocumentPath=fastic-readout.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -272,7 +272,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document14]
-DocumentPath=fastic_readout1\fastic_readout.PcbLib
+DocumentPath=fastic_readout1\fastic-readout.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -289,23 +289,6 @@ GenerateClassCluster=0
 DocumentUniqueId=HUGCVRXC
 
 [Document15]
-DocumentPath=fastic_readout1\fastic_readout.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RPIUITYF
-
-[Document16]
 DocumentPath=fastic.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -322,7 +305,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=top.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -339,7 +322,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document17]
 DocumentPath=clock.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -356,8 +339,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
-DocumentPath=fastic_readout.SCHLIB
+[Document18]
+DocumentPath=libraries\fastic-readout\fastic-readout.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -371,7 +354,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JGRNLQEZ
+DocumentUniqueId=RPIUITYF
 
 [ProjectVariant1]
 UniqueId=0698becd-389d-46dc-a2cb-4d4d58174c9c
@@ -381,7 +364,7 @@ ParameterCount=0
 VariationCount=8
 Variation1=Designator=FTG1|UniqueId=\NUAAWSOF|Kind=1|AlternatePart=
 Variation2=Designator=FTG2|UniqueId=\FCGPGLSB|Kind=1|AlternatePart=
-Variation3=Designator=L2|UniqueId=\ABPTTAPX\XERNEFII|Kind=1|AlternatePart=
+Variation3=Designator=L2|UniqueId=\ABPTTAPX\XERNEFII|Kind=0|AlternatePart=
 Variation4=Designator=R95|UniqueId=\WHGEGIJK\XAVNKEKU|Kind=1|AlternatePart=
 Variation5=Designator=R93|UniqueId=\WHGEGIJK\DXOSYXGE|Kind=1|AlternatePart=
 Variation6=Designator=R91|UniqueId=\WHGEGIJK\WQFVMPVF|Kind=1|AlternatePart=
