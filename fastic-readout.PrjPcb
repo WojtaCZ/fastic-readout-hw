@@ -44,7 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=fastic_readout
+CurrentVariant=fastic-readout
 
 [Preferences]
 PrefsVaultGUID=
@@ -358,19 +358,28 @@ DocumentUniqueId=RPIUITYF
 
 [ProjectVariant1]
 UniqueId=0698becd-389d-46dc-a2cb-4d4d58174c9c
-Description=fastic_readout
+Description=fastic-readout
 AllowFabrication=0
 ParameterCount=0
-VariationCount=8
+VariationCount=7
 Variation1=Designator=FTG1|UniqueId=\NUAAWSOF|Kind=1|AlternatePart=
 Variation2=Designator=FTG2|UniqueId=\FCGPGLSB|Kind=1|AlternatePart=
-Variation3=Designator=L2|UniqueId=\ABPTTAPX\XERNEFII|Kind=0|AlternatePart=
-Variation4=Designator=R95|UniqueId=\WHGEGIJK\XAVNKEKU|Kind=1|AlternatePart=
-Variation5=Designator=R93|UniqueId=\WHGEGIJK\DXOSYXGE|Kind=1|AlternatePart=
-Variation6=Designator=R91|UniqueId=\WHGEGIJK\WQFVMPVF|Kind=1|AlternatePart=
-Variation7=Designator=R112|UniqueId=\WHGEGIJK\TUFMDXRM|Kind=1|AlternatePart=
-Variation8=Designator=R111|UniqueId=\WHGEGIJK\OTJFWAWN|Kind=1|AlternatePart=
-ParamVariationCount=0
+Variation3=Designator=R95|UniqueId=\WHGEGIJK\XAVNKEKU|Kind=1|AlternatePart==Value
+ParamVariation1=ParameterName=Comment|VariantValue==Value
+ParamDesignator1=R95
+Variation4=Designator=R93|UniqueId=\WHGEGIJK\DXOSYXGE|Kind=1|AlternatePart==Value
+ParamVariation2=ParameterName=Comment|VariantValue==Value
+ParamDesignator2=R93
+Variation5=Designator=R91|UniqueId=\WHGEGIJK\WQFVMPVF|Kind=1|AlternatePart==Value
+ParamVariation3=ParameterName=Comment|VariantValue==Value
+ParamDesignator3=R91
+Variation6=Designator=R112|UniqueId=\WHGEGIJK\TUFMDXRM|Kind=1|AlternatePart==Value
+ParamVariation4=ParameterName=Comment|VariantValue==Value
+ParamDesignator4=R112
+Variation7=Designator=R111|UniqueId=\WHGEGIJK\OTJFWAWN|Kind=1|AlternatePart==Value
+ParamVariation5=ParameterName=Comment|VariantValue==Value
+ParamDesignator5=R111
+ParamVariationCount=5
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for fastic_readout\Design Rule Check - fastic_readout.html
