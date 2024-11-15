@@ -221,23 +221,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=fastic-readout.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document12]
 DocumentPath=fastic-readout.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -358,338 +341,686 @@ DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\user\2024
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\2024-11-15.REP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\user\2024-11-15.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\eda\data
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for fastic_readout\Design Rule Check - fastic_readout.html
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout.EXTREP
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout.REP
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout.RUL
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_1.gbr
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_2.gbr
+DocumentPath=Project Outputs for fastic-readout\Design Rule Check - fastic-readout.html
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_3.gbr
+DocumentPath=Project Outputs for fastic_readout\Design Rule Check - fastic_readout.html
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_4.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_5.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout.REP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_6.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Drawing_1.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Copper_Signal_3.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Drillmap_1.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Copper_Signal_4.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Keep-out.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Copper_Signal_5.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Legend_Bot.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Copper_Signal_6.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Legend_Top.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Mechanical_1.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Mechanical_5.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Mechanical_8.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Mechanical_13.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Mechanical_14.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Mechanical_15.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_NPTH_Drill.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Mechanical_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Pads_Bot.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Mechanical_5.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Pads_Top.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Mechanical_8.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Paste_Bot.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Mechanical_13.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Paste_Top.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Mechanical_14.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Profile.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Mechanical_15.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_PTH_Drill.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_NPTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Soldermask_Top.gbr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_PTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\bottom_surface_finish__enig_\features
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=Project Outputs for fastic-readout\Generate Files\GerberX2\fastic-readout_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\dielectric_1_-_prepreg_1080_x_2\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout.REP
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\dielectric_2_-_core_fr4\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\dielectric_3_-_prepreg_1080_x_2\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\dielectric_4_-_core_fr4\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\dielectric_5_-_prepreg_1080_x_2\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_3.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\dielectric_6_-_core_fr4\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_4.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\dielectric_7_-_prepreg_1080_x_2\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_5.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\drill_drawing_top_layer-bottom_layer\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_6.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\drill_guide_top_layer-bottom_layer\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\keep-out_layer\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\l02-gnd\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\l03-pwr\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\l04_pwr\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\l05-pwr\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Mechanical_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\l06-pwr\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Mechanical_5.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\l07-gnd\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Mechanical_8.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_1\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Mechanical_13.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_2\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Mechanical_14.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_5\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Mechanical_15.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_6\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_NPTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_7\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_8\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_13\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_14\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_15\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\route_guide\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_PTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\top_copper_plating__enig_\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\top_layer\features
+DocumentPath=Project Outputs for fastic_readout\Generate Files\GerberX2\fastic_readout_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\top_paste\features
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\top_solder\features
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\symbols\shapea4b394a8\features
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\symbols\shapeda605690\features
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\bottom_surface_finish__enig_\features
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\matrix\matrix
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument81]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument82]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\profile
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\dielectric_1_-_prepreg_1080_x_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument83]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\stephdr
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\dielectric_2_-_core_fr4\features
 DItemRevisionGUID=
 
 [GeneratedDocument84]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\dielectric_3_-_prepreg_1080_x_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument85]
-DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\dielectric_4_-_core_fr4\features
 DItemRevisionGUID=
 
 [GeneratedDocument86]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\dielectric_5_-_prepreg_1080_x_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\dielectric_6_-_core_fr4\features
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\dielectric_7_-_prepreg_1080_x_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\drill_drawing_top_layer-bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\drill_guide_top_layer-bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\l02-gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\l03-pwr\features
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\l04_pwr\features
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\l05-pwr\features
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\l06-pwr\features
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\l07-gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_5\features
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_6\features
+DItemRevisionGUID=
+
+[GeneratedDocument104]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_7\features
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_8\features
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_13\features
+DItemRevisionGUID=
+
+[GeneratedDocument107]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_14\features
+DItemRevisionGUID=
+
+[GeneratedDocument108]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_15\features
+DItemRevisionGUID=
+
+[GeneratedDocument109]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\route_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument110]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\top_copper_plating__enig_\features
+DItemRevisionGUID=
+
+[GeneratedDocument111]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument112]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument113]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument114]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument115]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\symbols\shapea4b394a8\features
+DItemRevisionGUID=
+
+[GeneratedDocument116]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\symbols\shapeda605690\features
+DItemRevisionGUID=
+
+[GeneratedDocument117]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument118]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument119]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument120]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument121]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\bottom_surface_finish__enig_\features
+DItemRevisionGUID=
+
+[GeneratedDocument122]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument123]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument124]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\dielectric_1_-_prepreg_1080_x_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument125]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\dielectric_2_-_core_fr4\features
+DItemRevisionGUID=
+
+[GeneratedDocument126]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\dielectric_3_-_prepreg_1080_x_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument127]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\dielectric_4_-_core_fr4\features
+DItemRevisionGUID=
+
+[GeneratedDocument128]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\dielectric_5_-_prepreg_1080_x_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument129]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\dielectric_6_-_core_fr4\features
+DItemRevisionGUID=
+
+[GeneratedDocument130]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\dielectric_7_-_prepreg_1080_x_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument131]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\drill_drawing_top_layer-bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument132]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\drill_guide_top_layer-bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument133]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument134]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument135]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument136]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\l02-gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument137]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\l03-pwr\features
+DItemRevisionGUID=
+
+[GeneratedDocument138]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\l04_pwr\features
+DItemRevisionGUID=
+
+[GeneratedDocument139]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\l05-pwr\features
+DItemRevisionGUID=
+
+[GeneratedDocument140]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\l06-pwr\features
+DItemRevisionGUID=
+
+[GeneratedDocument141]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\l07-gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument142]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument143]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument144]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_5\features
+DItemRevisionGUID=
+
+[GeneratedDocument145]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_6\features
+DItemRevisionGUID=
+
+[GeneratedDocument146]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_7\features
+DItemRevisionGUID=
+
+[GeneratedDocument147]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_8\features
+DItemRevisionGUID=
+
+[GeneratedDocument148]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_13\features
+DItemRevisionGUID=
+
+[GeneratedDocument149]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_14\features
+DItemRevisionGUID=
+
+[GeneratedDocument150]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\mechanical_15\features
+DItemRevisionGUID=
+
+[GeneratedDocument151]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\route_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument152]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\top_copper_plating__enig_\features
+DItemRevisionGUID=
+
+[GeneratedDocument153]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument154]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument155]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument156]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument157]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\symbols\shapea4b394a8\features
+DItemRevisionGUID=
+
+[GeneratedDocument158]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\symbols\shapeda605690\features
+DItemRevisionGUID=
+
+[GeneratedDocument159]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument160]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument161]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument162]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument163]
+DocumentPath=Project Outputs for fastic-readout\Pick Place for fastic-readout(fastic-readout).csv
+DItemRevisionGUID=
+
+[GeneratedDocument164]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument165]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument166]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument167]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument168]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument169]
+DocumentPath=Project Outputs for fastic-readout\Generate Files\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument170]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument171]
+DocumentPath=Project Outputs for fastic_readout\Generate Files\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument172]
+DocumentPath=Project Outputs for fastic-readout\Active BOM\2024-11-15\TOP_board_FastICplus_V1_0_mounted_only.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument173]
 DocumentPath=Project Outputs for fastic_readout\Active BOM\2024-06-10\TOP_board_FastICplus_V1_0_mounted_only.xlsx
 DItemRevisionGUID=
 
@@ -988,27 +1319,31 @@ Name=Assembly Outputs
 Description=
 TargetPrinter=PDF-XChange Standard
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Assembly
-OutputName1=Assembly Drawings
+OutputType1=Test Points For Assembly
+OutputName1=Test Point Report
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType2=Pick Place
-OutputName2=Generates pick and place files
+OutputType2=Wire Bonding Table
+OutputName2=Wire Bonding Table Report
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=Test Points For Assembly
-OutputName3=Test Point Report
+OutputType3=Assembly
+OutputName3=Assembly Drawings
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=Wire Bonding Table
-OutputName4=Wire Bonding Table Report
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Pick Place
+OutputName4=Generates pick and place files
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
+Configuration4_Name1=ForceUpdateSettings
+Configuration4_Item1=False
+Configuration4_Name2=OutputConfigurationParameter1
+Configuration4_Item2=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Manufacturer Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#18=Name:ComponentHeight,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#19=Name:SMD,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48,Type:0|Column#20=Name:Manufacturer1 Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34,Type:0|Column#21=Name:Device,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#22=Name:Status,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51,Type:0|Column#23=Name:CreateDate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#24=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#25=Name:HelpURL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#26=Name:Bonding,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#27=Name:SnapEDA_Link,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49,Type:0|Column#28=Name:Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55,Type:0|Column#29=Name:Case,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#30=Name:Socket,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50,Type:0|Column#31=Name:MF,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35,Type:0|Column#32=Name:Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41,Type:0|Column#33=Name:Component Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#34=Name:Manufacturer1 ComponentHeight,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|Column#35=Name:Author,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#36=Name:Mounted,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36,Type:0|Column#37=Name:Manufacturer1 Example,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#38=Name:MP,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37,Type:0|Column#39=Name:Power,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43,Type:0|Column#40=Name:PackageDescription,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39,Type:0|Column#41=Name:Family,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#42=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#43=Name:Part Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40,Type:0|Column#44=Name:PressFit,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44,Type:0|Column#45=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54,Type:0|Column#46=Name:TC,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52,Type:0|Column#47=Name:LatestRevisionDate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#48=Name:Color,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#49=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38,Type:0|Column#50=Name:Pin Count,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42,Type:0|Column#51=Name:Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46,Type:0|Column#52=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#53=Name:Availability,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#54=Name:Price,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45,Type:0|Column#55=Name:Sense,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47,Type:0|Column#56=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53,Type:0|DocumentPath=C:\Users\vvosahlo\cernbox\Documents\altium\fastic-readout-hw-v1.0\fastic-readout.PcbDoc
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -1707,9 +2042,9 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=fastic_readout.SchLib
-ComponentDesignItemID0=C14156
-ComponentSymbolReference0=C14156
+ComponentLibraryIdentifier0=ICs And Semiconductors.DbLib/Analog & Interface
+ComponentDesignItemID0=FastIC+
+ComponentSymbolReference0=FastIC+
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1725,14 +2060,65 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Comment
+ParameterName0=Author
 ParameterUpdate0=1
-ParameterName1=Component Kind
+ParameterName1=Bonding
 ParameterUpdate1=1
-ParameterName2=Description
+ParameterName2=Case
 ParameterUpdate2=1
-ParameterName3=Library Reference
+ParameterName3=Comment
 ParameterUpdate3=1
+ParameterName4=Component Kind
+ParameterUpdate4=1
+ParameterName5=Component Type
+ParameterUpdate5=1
+ParameterName6=ComponentHeight
+ParameterUpdate6=1
+ParameterName7=ComponentLink1Description
+ParameterUpdate7=1
+ParameterName8=ComponentLink1URL
+ParameterUpdate8=1
+ParameterName9=CreateDate
+ParameterUpdate9=1
+ParameterName10=Description
+ParameterUpdate10=1
+ParameterName11=Device
+ParameterUpdate11=1
+ParameterName12=Footprint
+ParameterUpdate12=1
+ParameterName13=HelpURL
+ParameterUpdate13=1
+ParameterName14=LatestRevisionDate
+ParameterUpdate14=1
+ParameterName15=Library Reference
+ParameterUpdate15=1
+ParameterName16=Manufacturer
+ParameterUpdate16=1
+ParameterName17=Manufacturer Part Number
+ParameterUpdate17=1
+ParameterName18=Mounted
+ParameterUpdate18=1
+ParameterName19=PackageDescription
+ParameterUpdate19=1
+ParameterName20=Part Description
+ParameterUpdate20=1
+ParameterName21=Part Number
+ParameterUpdate21=1
+ParameterName22=Pin Count
+ParameterUpdate22=1
+ParameterName23=PressFit
+ParameterUpdate23=1
+ParameterName24=Sense
+ParameterUpdate24=1
+ParameterName25=SMD
+ParameterUpdate25=1
+ParameterName26=Socket
+ParameterUpdate26=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=QFN40P1000X1000X85-89N-S760
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

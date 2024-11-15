@@ -1,0 +1,348 @@
+Altium Designer Pick and Place Locations,,,,,,,
+C:\Users\vvosahlo\cernbox\Documents\altium\fastic-readout-hw-v1.0\Project Outputs for fastic-readout\Pick Place for fastic-readout(fastic-readout).csv,,,,,,,
+,,,,,,,
+========================================================================================================================,,,,,,,
+File Design Information:,,,,,,,
+,,,,,,,
+Date:       15/11/24,,,,,,,
+Time:       09:46,,,,,,,
+Revision:   f0fbaec3ec4139e9fda66e3f75a2d43e6b6cb87b,,,,,,,
+Variant:    fastic-readout,,,,,,,
+Units used: mm,,,,,,,
+,,,,,,,
+Designator,Comment,Layer,Footprint,Center-X(mm),Center-Y(mm),Rotation,Description
+R87,10k,Top,RESC1005X40N,29.4,-11.9,90,Resistor - 1%
+R86,10k,Top,RESC1005X40N,30.4,-11.9,90,Resistor - 1%
+R85,4k7,Top,RESC1005X40N,-7.1,23.2,0,Resistor - 1%
+R84,4k7,Top,RESC1005X40N,-7.1,22.2,0,Resistor - 1%
+R83,10k,Top,RESC1005X40N,14.9,-15.6,90,Resistor - 1%
+R82,10k,Top,RESC1005X40N,16.2,-15.6,90,Resistor - 1%
+R81,4k7,Bottom,RESC1005X40N,37.35,-14.2,180,Resistor - 1%
+R80,4k7,Bottom,RESC1005X40N,33.55,-12.86,270,Resistor - 1%
+R79,4k7,Bottom,RESC1005X40N,33.55,-11.04,90,Resistor - 1%
+R78,4k7,Bottom,RESC1005X40N,20.2,-12.36,180,Resistor - 1%
+R77,4k7,Bottom,RESC1005X40N,16.4,-11.01,270,Resistor - 1%
+R76,4k7,Bottom,RESC1005X40N,16.4,-9.19,90,Resistor - 1%
+IC8,TCA9803DGK,Bottom,SOP65P490X110-8N,37.35,-11.95,0,Level-Translating I2C Bus Buffer/Repeater
+IC7,TCA9803DGK,Bottom,SOP65P490X110-8N,20.2,-10.1,0,Level-Translating I2C Bus Buffer/Repeater
+C134,100nF,Bottom,CAPC1005X55N,39.64,-14.21,0,Non-polarised capacitor
+C133,100nF,Bottom,CAPC1005X55N,22.49,-12.36,0,Non-polarised capacitor
+C121,100nF,Bottom,CAPC1005X55N,17.91,-12.36,180,Non-polarised capacitor
+C107,100nF,Bottom,CAPC1005X55N,35.06,-14.21,180,Non-polarised capacitor
+R75,1k,Top,RESC1005X40N,32.3,-33.8,90,Resistor - 1%
+R74,1k,Top,RESC1005X40N,31.3,-33.8,90,Resistor - 1%
+R51,1k,Top,RESC1005X40N,30.3,-33.8,90,Resistor - 1%
+R50,1k,Top,RESC1005X40N,29.3,-33.8,90,Resistor - 1%
+LD4,Green,Top,LED_KINGBRIGHT_APHHS1005CGCK,32.3,-31.8,90,LED Green 1C 2A
+LD3,Green,Top,LED_KINGBRIGHT_APHHS1005CGCK,31.3,-31.8,90,LED Green 1C 2A
+LD2,Green,Top,LED_KINGBRIGHT_APHHS1005CGCK,30.3,-31.8,90,LED Green 1C 2A
+LD1,Green,Top,LED_KINGBRIGHT_APHHS1005CGCK,29.3,-31.8,90,LED Green 1C 2A
+R49,4k12,Top,RESC1005X40N,4.3,32,0,Resistor - 1%
+R48,5k1,Top,RESC1005X40N,4.3,30.8,0,Resistor - 1%
+R47,1k,Top,RESC1005X40N,-0.23,20.5,0,Resistor - 1%
+L1_1,220R@100MHz,Top,INDC1005X55N,-11.8,-14.025,90,
+C80_1,100nF,Top,CAPC1005X55N,-8,-18.24,180,Non-polarised capacitor
+C81_1,100nF,Top,CAPC1005X55N,-8,-19.46,180,Non-polarised capacitor
+C82_1,4.7uF,Top,CAPC1608X87N,-10,-19.205,270,Non-polarised capacitor
+C34,4.7uF,Top,CAPC1608X87N,7.425,17.2,180,Non-polarised capacitor
+J9,Family,Top,PHOENIX_1803277,37,10,90,Connector 2 Male
+C150,4.7uF,Top,CAPC1608X87N,9.8,32.3,0,Non-polarised capacitor
+C162,100nF,Top,CAPC1005X55N,15.75,23,180,Non-polarised capacitor
+C161,100nF,Top,CAPC1005X55N,7.05,30.7,0,Non-polarised capacitor
+C160,100nF,Top,CAPC1005X55N,9.8,30.7,180,Non-polarised capacitor
+C159,100nF,Top,CAPC1005X55N,12.3,30.7,180,Non-polarised capacitor
+C158,100nF,Top,CAPC1005X55N,7.94,18.8,0,Non-polarised capacitor
+C157,100nF,Top,CAPC1005X55N,15.25,29.11,270,Non-polarised capacitor
+C156,100nF,Top,CAPC1005X55N,12.8,18.8,180,Non-polarised capacitor
+C155,100nF,Top,CAPC1005X55N,10.66,18.8,180,Non-polarised capacitor
+C154,100nF,Top,CAPC1005X55N,3.35,25.39,270,Non-polarised capacitor
+C153,100nF,Top,CAPC1005X55N,3.35,23.57,270,Non-polarised capacitor
+C152,100nF,Top,CAPC1005X55N,15.75,26.5,180,Non-polarised capacitor
+C151,100nF,Top,CAPC1005X55N,3.35,27.25,270,Non-polarised capacitor
+R71,100,Top,RESC1005X40N,3.35,21.75,270,Resistor - 1%
+IC32,AD9510BCPZ,Top,QFN50P900X900X100-65N-S485,9.3,24.75,0,"1.2 GHz Clock Distribution IC, PLL Core, Dividers, Delay Adjust, Eight Outputs"
+R70,100,Top,RESC1005X40N,-11.8,-17.505,270,Resistor - 1%
+R69,100,Top,RESC1005X40N,11.8,11.805,90,Resistor - 1%
+C115,100nF,Top,CAPC1005X55N,-33.1,23.9,270,Non-polarised capacitor
+C117,100nF,Top,CAPC1005X55N,-26.6,26.3,180,Non-polarised capacitor
+C131,100nF,Top,CAPC1005X55N,-33.1,-16.7,270,Non-polarised capacitor
+C105,100nF,Top,CAPC1005X55N,-10.25,-6.45,180,Non-polarised capacitor
+C9,100nF,Top,CAPC1005X55N,10.25,0.75,0,Non-polarised capacitor
+R68,20k,Top,RESC1005X40N,-12.12,-7.91,270,Resistor - 0.1%
+R67,10k,Top,RESC1005X35N,-12.12,-9.79,90,Resistor - 0.1%
+R66,20k,Top,RESC1005X40N,12.12,2.21,90,Resistor - 0.1%
+R65,10k,Top,RESC1005X35N,12.12,4.09,270,Resistor - 0.1%
+IC31,AD8541AKSZ-R2,Top,SOT65P210X110-5N,-10.25,-8.85,90,Operational Amplifier
+IC15,AD8541AKSZ-R2,Top,SOT65P210X110-5N,10.25,3.15,270,Operational Amplifier
+T3,IRLML6402PBF,Top,SOT95P237X112-3N,11.3903,-6.5107,180,P-CHANNEL MOSFET WITH ZENER DIODE
+R64,10k,Top,RESC1005X40N,25.9317,-10.5714,270,Resistor - 1%
+R63,10k,Top,RESC1005X40N,24.8,32.6,90,Resistor - 1%
+R62,220,Top,RESC1005X40N,8.9,-5.5,90,Resistor - 1%
+R61,10,Top,RESC1005X40N,8.9,-7.4,90,Resistor - 1%
+R60,10k,Top,RESC1005X40N,13.9,-6.5,90,Resistor - 1%
+R59,100,Top,RESC1005X40N,26.1,5.6142,180,Resistor - 1%
+Q2,48MHz,Top,XTAL_KYOCERA_CX3225SB,13.6533,-22.0768,0,Crystal 4 pins 1=XTAL Control 2=GND3=XTAL 4=GND
+J8,Header 10,Top,SAMTEC_FTSH-105-01-L-DV-K,39.9,-2.614,90,Connector 10 Male
+IC14,SN65LVDS388ADBT,Top,SOP50P640X120-38N,29.35,1.1142,270,8 High-Speed Differential Line Receiver
+C93,4.7uF,Top,CAPC1608X87N,39.5669,-11.546,90,Non-polarised capacitor
+C76,100nF,Top,CAPC1005X55N,25.1,-3.3858,0,Non-polarised capacitor
+C75,100nF,Top,CAPC1005X55N,29.35,-3.3858,0,Non-polarised capacitor
+C50,100nF,Top,CAPC1005X55N,33.6,-3.3858,180,Non-polarised capacitor
+C49,1nF,Top,CAPC1608X90N,7.5,-6.45,270,Non-polarised capacitor
+L2,3.3uH,Top,IND_COILCRAFT_XAL4030,-27.85,-1.8,180,Inductor With Core
+C48,100nF,Top,CAPC1005X55N,-10.15,29.75,180,Non-polarised capacitor
+Q1,48MHz,Top,XTAL_KYOCERA_CX3225SB,-13.35,17,0,Crystal 4 pins 1=XTAL Control 2=GND3=XTAL 4=GND
+IC29,INA293B2,Top,SOT95P280X145-5N,42.8537,18.1,90,
+IC28,C14156,Top,C14156,33.45,29.9,270,
+IC21,AP62201WU-7,Top,SOT95P280X100-6N,-28.605,-6.15,0,"4.2V TO 18V INPUT, 2A LOW IQ SYNCHRONOUS BUCK CONVERTER"
+C47_2,4.7uF,Top,CAPC1608X87N,8,-12.59,90,Non-polarised capacitor
+C47_1,4.7uF,Top,CAPC1608X87N,-8,6.89,270,Non-polarised capacitor
+R46,10k,Top,RESC1005X40N,-23.31,-13.61,270,Resistor - 1%
+R45,10k,Top,RESC1005X40N,-23.31,4.29,270,Resistor - 1%
+R44,10k,Top,RESC1005X40N,-14.89,-11.14,90,Resistor - 1%
+R43,10k,Top,RESC1005X40N,-14.89,6.76,90,Resistor - 1%
+R42,10k,Top,RESC1005X40N,-23.31,-31.41,270,Resistor - 1%
+R41,10k,Top,RESC1005X40N,-23.31,-22.51,270,Resistor - 1%
+R40,10k,Top,RESC1005X40N,-14.89,-28.94,90,Resistor - 1%
+R39,10k,Top,RESC1005X40N,-14.89,-20.04,90,Resistor - 1%
+R38,10k,Top,RESC1005X35N,-26.36,-8.44,180,Resistor - 0.1%
+R37,31k6,Top,RESC1005X35N,-28.26,-8.44,180,Resistor - 0.1%
+R36,10k,Top,RESC1005X40N,-23.31,-4.71,270,Resistor - 1%
+R35,10k,Top,RESC1005X40N,-14.89,-2.24,90,Resistor - 1%
+R34,1k2,Top,RESC1005X40N,-9.995,2.405,180,Resistor - 1%
+R33,1k6,Top,RESC1005X40N,-9.995,1.385,180,Resistor - 1%
+IC25,TPS7A7200RGW,Top,QFN65P500X500X100-21N-S325,-19.1,-12.375,0,"2-A, Fast-Transient, Low-Dropout Voltage Regulator"
+IC24,TPS7A7200RGW,Top,QFN65P500X500X100-21N-S325,-19.1,5.525,0,"2-A, Fast-Transient, Low-Dropout Voltage Regulator"
+IC23,TPS7A7200RGW,Top,QFN65P500X500X100-21N-S325,-19.1,-30.175,0,"2-A, Fast-Transient, Low-Dropout Voltage Regulator"
+IC22,TPS7A7200RGW,Top,QFN65P500X500X100-21N-S325,-19.1,-21.275,0,"2-A, Fast-Transient, Low-Dropout Voltage Regulator"
+IC20,TPS7A7200RGW,Top,QFN65P500X500X100-21N-S325,-19.1,-3.475,0,"2-A, Fast-Transient, Low-Dropout Voltage Regulator"
+IC19,ADR130BUJZ,Top,SOT95P280X100-6N,-9.025,-1.325,90,"±25ppm/°C, Precision Series Sub-Band Gap Voltage Reference"
+C119,1uF,Top,CAPC1608X87N,-14.7,-13.975,270,Non-polarised capacitor
+C118,1uF,Top,CAPC1608X87N,-14.7,3.925,270,Non-polarised capacitor
+C116,1uF,Top,CAPC1608X87N,-17.5,-7.975,180,Non-polarised capacitor
+C114,1uF,Top,CAPC1608X87N,-17.5,9.925,180,Non-polarised capacitor
+C113,10uF,Top,CAPC2012X145N,-20.9,-7.75,180,Non-polarised capacitor
+C112,220pF,Top,CAPC1005X55N,-23.31,-11.79,270,Non-polarised capacitor
+C111,10uF,Top,CAPC2012X145N,-20.9,10.15,180,Non-polarised capacitor
+C110,220pF,Top,CAPC1005X55N,-23.31,6.11,270,Non-polarised capacitor
+C109,1uF,Top,CAPC1608X87N,-14.7,-31.775,270,Non-polarised capacitor
+C108,1uF,Top,CAPC1608X87N,-14.7,-22.875,270,Non-polarised capacitor
+C106,1uF,Top,CAPC1608X87N,-17.5,-25.775,180,Non-polarised capacitor
+C104,1uF,Top,CAPC1608X87N,-17.5,-16.875,180,Non-polarised capacitor
+C103,10uF,Top,CAPC2012X145N,-20.9,-25.55,180,Non-polarised capacitor
+C102,220pF,Top,CAPC1005X55N,-23.31,-29.59,270,Non-polarised capacitor
+C101,10uF,Top,CAPC2012X145N,-20.9,-16.65,180,Non-polarised capacitor
+C100,220pF,Top,CAPC1005X55N,-23.31,-20.69,270,Non-polarised capacitor
+C99,1uF,Top,CAPC1608X87N,-14.7,-5.075,270,Non-polarised capacitor
+C98,22uF,Top,CAPC2013X145N,-31.835,-3.125,90,Non-polarised capacitor
+C97,22uF,Top,CAPC2013X145N,-33.935,-3.125,90,Non-polarised capacitor
+C96,100pF,Top,CAPC1005X55N,-25.91,-6.9899,90,Non-polarised capacitor
+C95,10uF,Top,CAPC2012X145N,-31.835,-7.275,270,Non-polarised capacitor
+C94,10uF,Top,CAPC2012X145N,-33.935,-7.275,270,Non-polarised capacitor
+C92,1uF,Top,CAPC1608X87N,-17.5,0.925,180,Non-polarised capacitor
+C91,10uF,Top,CAPC2012X145N,-20.9,1.15,180,Non-polarised capacitor
+C90,220pF,Top,CAPC1005X55N,-23.31,-2.89,270,Non-polarised capacitor
+C89,330nF,Top,CAPC1005X55N,-25.91,-5.1699,90,Non-polarised capacitor
+C88,1nF,Top,CAPC1005X55N,-8.075,2.405,0,Non-polarised capacitor
+C87,100nF,Top,CAPC1005X55N,-8.075,1.385,180,Non-polarised capacitor
+C86,100nF,Top,CAPC1005X55N,-8.55,-4.035,180,Non-polarised capacitor
+C148_2,10nF,Top,CAPC1005X55N,6,-12.59,0,Non-polarised capacitor
+C148_1,10nF,Top,CAPC1005X55N,-6,6.89,180,Non-polarised capacitor
+C147_2,10nF,Top,CAPC1005X55N,-8,-13.51,180,Non-polarised capacitor
+C147_1,10nF,Top,CAPC1005X55N,8,7.81,0,Non-polarised capacitor
+J5,Socket 20,Top,HIROSE_DF17(3.0)-20DS-0.5V,0,-2.85,0,Connector 20 Female
+T2,BSS139,Top,SOT95P240X110-3N,23.0344,30.55,0,N-CHANNEL MOSFET WITH DIODE
+R58,200k,Top,RESC1005X40N,36.95,20.9,90,Resistor - 1%
+R57,10M,Top,RESC1005X35N,39.9,21.3573,0,Resistor - 1%
+R56,1k,Top,RESC1005X40N,30.9,34.1,180,Resistor - 1%
+R55,200k,Top,RESC1005X40N,38.7,25.2,90,Resistor - 1%
+R54,100,Top,RESC1005X40N,26.1239,30.55,0,Resistor - 1%
+R53,100k,Top,RESC1005X40N,39.7,25.2,90,Resistor - 1%
+R52,11,Top,RESC1608X55N,42.85,21,180,Resistor - 0.1%
+R32_2,15k,Top,RESC1005X40N,-9.4,6.1,270,Resistor - 1%
+R32_1,15k,Top,RESC1005X40N,9.4,-11.8,90,Resistor - 1%
+R31,5k1,Top,RESC1005X40N,-36.63,-1.7499,180,Resistor - 1%
+R4,50,Top,RESC1005X40N,-34.45,-16.875,90,Resistor - 1%
+PB1,Push Button,Top,PB_OMRON_B3U-1100P,39.9,3.625,180,Push-Button Switch SPST
+L3,15uH,Top,INDC2013X145N,33.8,23.6,0,Inductor
+L1_2,220R@100MHz,Top,INDC1005X55N,11.8,14.305,90,
+IC18_2,FastIC+,Top,QFN40P1000X1000X85-89N-S760,1,10.15,90,
+IC18_1,FastIC+,Top,QFN40P1000X1000X85-89N-S760,-1,-15.85,270,
+IC2,74HC2G04GW,Top,SOT65P210X110-6N,-26.6,23.9,90,Dual Inverter Buffer
+IC6,AS169-73LF,Top,SOT95P270X145-6N,-30.7,-24.45,0,PHEMT GaAs IC SPDT Switch 300 KHz-2.5 GHz
+IC5,AS169-73LF,Top,SOT95P270X145-6N,-22.8,18.54,270,PHEMT GaAs IC SPDT Switch 300 KHz-2.5 GHz
+F1,1A,Top,FUSC_BOURNS_SF-0603F,-39.8,-7.4,0,Fuse
+D1,PESD5V0S1UA,Top,SOD2512X110N,-35.94,-4.29,270,Transient Voltage Suppressor Diode (Uni-Directional)
+C146,100pF,Top,CAPC1005X55N,38,20.9,90,Non-polarised capacitor
+C145,100nF,Top,CAPC1005X55N,39.8,16.6,0,Non-polarised capacitor
+C144,100nF,Top,CAPC1005X55N,43.3375,15.5778,0,Non-polarised capacitor
+C143,1nF,Top,CAPC1005X55N,37.7,25.2,270,Non-polarised capacitor
+C142,100nF,Top,CAPC1608X90N,35.5,25.5,0,Non-polarised capacitor
+C141,100nF,Top,CAPC1608X90N,32.4,25.5,180,Non-polarised capacitor
+C140,10uF,Top,CAPC1608X80N,38.7,27.8,270,Non-polarised capacitor
+C139,100nF,Top,CAPC1005X55N,37.6,30.6,270,Non-polarised capacitor
+C132,4.7uF,Top,CAPC1608X87N,-16.065,31.2,180,Non-polarised capacitor
+C130,100nF,Top,CAPC1005X55N,-18.1,27.7,270,Non-polarised capacitor
+C129,100nF,Top,CAPC1005X55N,-13.6,30.2,270,Non-polarised capacitor
+C128,100nF,Top,CAPC1005X55N,-18.1,23.59,90,Non-polarised capacitor
+C127,100nF,Top,CAPC1005X55N,-18.1,25.41,270,Non-polarised capacitor
+C126,100nF,Top,CAPC1005X55N,-15.55,29.75,0,Non-polarised capacitor
+C125,100nF,Top,CAPC1005X55N,-8.1,27.2,270,Non-polarised capacitor
+C124,4.7uF,Top,CAPC1608X87N,-9.635,31.2,0,Non-polarised capacitor
+C123,100nF,Top,CAPC1005X55N,-8.1,24.8,90,Non-polarised capacitor
+C122,100nF,Top,CAPC1005X55N,-12.1,30.2,270,Non-polarised capacitor
+C120,100nF,Top,CAPC1005X55N,-9.86,19.75,180,Non-polarised capacitor
+C85_2,4.7uF,Top,CAPC1608X87N,-10,-12.59,90,Non-polarised capacitor
+C85_1,4.7uF,Top,CAPC1608X87N,10.005,6.89,270,Non-polarised capacitor
+C84_2,100nF,Top,CAPC1005X55N,-8,-12.59,180,Non-polarised capacitor
+C84_1,100nF,Top,CAPC1005X55N,8,6.89,0,Non-polarised capacitor
+C83_2,100nF,Top,CAPC1005X55N,6,-13.51,0,Non-polarised capacitor
+C83_1,100nF,Top,CAPC1005X55N,-6,7.81,180,Non-polarised capacitor
+C82_2,4.7uF,Top,CAPC1608X87N,10,13.505,90,Non-polarised capacitor
+C81_2,100nF,Top,CAPC1005X55N,8,13.76,0,Non-polarised capacitor
+C80_2,100nF,Top,CAPC1005X55N,8,12.54,0,Non-polarised capacitor
+C79_2,4.7uF,Top,CAPC1608X87N,-1.8,-23.365,270,Non-polarised capacitor
+C79_1,4.7uF,Top,CAPC1608X87N,1.8,17.665,90,Non-polarised capacitor
+C78_2,100nF,Top,CAPC1005X55N,6,-18.25,0,Non-polarised capacitor
+C78_1,100nF,Top,CAPC1005X55N,-6,12.55,180,Non-polarised capacitor
+C77_2,100nF,Top,CAPC1005X55N,6,-19.46,0,Non-polarised capacitor
+C77_1,100nF,Top,CAPC1005X55N,-6,13.76,180,Non-polarised capacitor
+C74_2,4.7uF,Top,CAPC1608X87N,8,-19.205,270,Non-polarised capacitor
+C74_1,4.7uF,Top,CAPC1608X87N,-8,13.505,90,Non-polarised capacitor
+C73_2,100nF,Top,CAPC1005X55N,-8,-15.85,180,Non-polarised capacitor
+C73_1,100nF,Top,CAPC1005X55N,8,10.15,0,Non-polarised capacitor
+C72_2,100nF,Top,CAPC1005X55N,0,-22.85,270,Non-polarised capacitor
+C72_1,100nF,Top,CAPC1005X55N,0,17.15,90,Non-polarised capacitor
+C71_2,100nF,Top,CAPC1005X55N,-3.6,-22.85,270,Non-polarised capacitor
+C71_1,100nF,Top,CAPC1005X55N,3.6,17.15,90,Non-polarised capacitor
+C70_2,100nF,Top,CAPC1005X55N,6,-20.38,0,Non-polarised capacitor
+C70_1,100nF,Top,CAPC1005X55N,-6,14.68,180,Non-polarised capacitor
+C69_2,1nF,Top,CAPC1005X55N,7,3.15,270,Non-polarised capacitor
+C69_1,1nF,Top,CAPC1005X55N,-7,-8.85,90,Non-polarised capacitor
+C68_2,4.7uF,Top,CAPC1608X87N,8,-15.805,90,Non-polarised capacitor
+C68_1,4.7uF,Top,CAPC1608X87N,-8,10.105,270,Non-polarised capacitor
+C67_2,4.7uF,Top,CAPC1608X87N,-10,-15.805,90,Non-polarised capacitor
+C67_1,4.7uF,Top,CAPC1608X87N,10,10.105,270,Non-polarised capacitor
+C66_2,100nF,Top,CAPC1005X55N,6,-16.12,0,Non-polarised capacitor
+C66_1,100nF,Top,CAPC1005X55N,-6,10.42,180,Non-polarised capacitor
+C65_2,100nF,Top,CAPC1005X55N,6,-14.73,0,Non-polarised capacitor
+C65_1,100nF,Top,CAPC1005X55N,-6,9.03,180,Non-polarised capacitor
+C64_2,100nF,Top,CAPC1005X55N,-8,-14.73,180,Non-polarised capacitor
+C64_1,100nF,Top,CAPC1005X55N,8,9.03,0,Non-polarised capacitor
+C63_2,100nF,Top,CAPC1005X55N,-8,-16.77,180,Non-polarised capacitor
+C63_1,100nF,Top,CAPC1005X55N,8,11.07,0,Non-polarised capacitor
+C62_2,100nF,Top,CAPC1005X55N,-8,-20.38,180,Non-polarised capacitor
+C62_1,100nF,Top,CAPC1005X55N,8,14.68,0,Non-polarised capacitor
+C61_2,100nF,Top,CAPC1005X55N,6,-17.04,0,Non-polarised capacitor
+C61_1,100nF,Top,CAPC1005X55N,-6,11.34,180,Non-polarised capacitor
+C60_2,4.7uF,Top,CAPC1608X87N,-5.18,-8.335,90,Non-polarised capacitor
+C60_1,4.7uF,Top,CAPC1608X87N,5.18,2.635,270,Non-polarised capacitor
+C59_2,4.7uF,Top,CAPC1608X87N,4.91,-8.335,90,Non-polarised capacitor
+C59_1,4.7uF,Top,CAPC1608X87N,-4.91,2.635,270,Non-polarised capacitor
+C58_2,100nF,Top,CAPC1005X55N,6,-11.37,0,Non-polarised capacitor
+C58_1,100nF,Top,CAPC1005X55N,-6,5.67,180,Non-polarised capacitor
+C57_2,100nF,Top,CAPC1005X55N,-8,-11.37,180,Non-polarised capacitor
+C57_1,100nF,Top,CAPC1005X55N,8,5.67,0,Non-polarised capacitor
+C56_2,100nF,Top,CAPC1005X55N,-2.76,-8.85,90,Non-polarised capacitor
+C56_1,100nF,Top,CAPC1005X55N,2.76,3.15,270,Non-polarised capacitor
+C55_2,100nF,Top,CAPC1005X55N,-3.68,-8.85,90,Non-polarised capacitor
+C55_1,100nF,Top,CAPC1005X55N,3.68,3.15,270,Non-polarised capacitor
+C54_2,100nF,Top,CAPC1005X55N,-1.2,-8.85,90,Non-polarised capacitor
+C54_1,100nF,Top,CAPC1005X55N,1.2,3.15,270,Non-polarised capacitor
+C53_2,100nF,Top,CAPC1005X55N,0,-8.85,90,Non-polarised capacitor
+C53_1,100nF,Top,CAPC1005X55N,0,3.15,270,Non-polarised capacitor
+C52_2,100nF,Top,CAPC1005X55N,1.6,-8.85,90,Non-polarised capacitor
+C52_1,100nF,Top,CAPC1005X55N,-1.6,3.15,270,Non-polarised capacitor
+C51_2,100nF,Top,CAPC1005X55N,3.41,-8.85,90,Non-polarised capacitor
+C51_1,100nF,Top,CAPC1005X55N,-3.41,3.15,270,Non-polarised capacitor
+C14,100nF,Top,CAPC1005X55N,23.2033,-31.2568,180,Non-polarised capacitor
+C12,100nF,Top,CAPC1005X55N,19.6733,-18.7268,270,Non-polarised capacitor
+T1,IRLML6402PBF,Top,SOT95P237X112-3N,11.3903,-2.4107,180,P-CHANNEL MOSFET WITH ZENER DIODE
+R30,5k1,Top,RESC1005X40N,-36.63,1.2501,180,Resistor - 1%
+R29,20,Top,RESC1005X40N,23.01,12.7,180,Resistor - 1%
+R28,20,Top,RESC1005X40N,21.19,12.7,0,Resistor - 1%
+R27,50,Top,RESC1005X40N,21.64,14.07,270,Resistor - 1%
+R26,8k06,Top,RESC1005X40N,-28.93,4.5,180,Resistor - 1%
+R25,50,Top,RESC1005X40N,22.56,14.07,270,Resistor - 1%
+R24,220,Top,RESC1005X40N,23.01,15.44,0,Resistor - 1%
+R23,220,Top,RESC1005X40N,21.19,15.44,180,Resistor - 1%
+R22,100,Top,RESC1005X40N,28.35,5.6142,180,Resistor - 1%
+R21,1k,Top,RESC1005X40N,-8.38,-9.79,90,Resistor - 1%
+R20,220,Top,RESC1005X40N,8.9,-1.4,90,Resistor - 1%
+R19,1k,Top,RESC2012X60N,-30.9,2.9,90,Resistor - 1%
+R18,10k,Top,RESC1005X40N,-27.35,5.65,270,Resistor - 1%
+R17,10,Top,RESC1005X40N,8.9,-3.3,90,Resistor - 1%
+R16,20,Top,RESC1005X40N,17.71,12.7,180,Resistor - 1%
+R15,20,Top,RESC1005X40N,15.89,12.7,0,Resistor - 1%
+R14,50,Top,RESC1005X40N,16.34,14.07,270,Resistor - 1%
+R13,50,Top,RESC1005X40N,17.26,14.07,270,Resistor - 1%
+R12,220,Top,RESC1005X40N,17.71,15.44,0,Resistor - 1%
+R11,220,Top,RESC1005X40N,15.89,15.44,180,Resistor - 1%
+R9,200k,Top,RESC1005X40N,16.6533,-22.3768,0,Resistor - 1%
+R8,10k,Top,RESC1005X40N,13.9,-2.4,90,Resistor - 1%
+R7,100,Top,RESC1005X40N,33.35,5.6142,180,Resistor - 1%
+R5,10k,Top,RESC1005X40N,17.1,-20.9268,180,Resistor - 1%
+R3,50,Top,RESC1005X40N,-32,30.7,0,Resistor - 1%
+R2,50,Top,RESC1005X40N,-34.45,-27.85,90,Resistor - 1%
+J6,USB 2.0,Top,GCT_USB4105-GF-A,-41.2126,0.0001,270,2x8 Pin + 1 Shield  USB Type C Receptacle
+J3,SMA,Top,AMPHENOL_132203,-39.5,-12.5,180,
+J2,SMA,Top,AMPHENOL_132203,-39.5,12.5,180,
+IC30,AD8541AKSZ-R2,Top,SOT65P210X110-5N,39.9,19,270,Operational Amplifier
+IC26,SI5340B-D-GM,Top,QFN50P700X700X90-45N-S530,-13.1,24.75,90,"Low-Jitter, 4-Output, Any-Frequency, Any-Output Clock Generator"
+IC17,SN74LVC1G97DCKT,Top,SOT65P210X110-6N,27,32.9,180,Configurable Multiple-Function Gate
+IC16,USB3320C-EZK-TR,Top,QFN50P500X500X100-33N-S340,-31.15,8.25,270,"Highly Integrated, Full Featured Hi-Speed USB 2.0 ULPI Transceiver"
+IC13,REF3318AIDBZT,Top,SOT95P237X112-3N,15.1,-27.1,180,3-Terminal Regulator 1=IN 2=OUT 3=GND
+IC12,AS169-73LF,Top,SOT95P270X145-6N,-30.7,-13.475,0,PHEMT GaAs IC SPDT Switch 300 KHz-2.5 GHz
+IC11,AS169-73LF,Top,SOT95P270X145-6N,-22.8,25.06,90,PHEMT GaAs IC SPDT Switch 300 KHz-2.5 GHz
+IC3,74HC2G04GW,Top,SOT65P210X110-6N,-30.7,-16.695,180,Dual Inverter Buffer
+IC1,74HC2G04GW,Top,SOT65P210X110-6N,-30.7,23.9,180,Dual Inverter Buffer
+C46,4.7uF,Top,CAPC1608X87N,-39.5634,-5.872,180,Non-polarised capacitor
+C45,100nF,Top,CAPC1005X55N,-37.4351,-3.1999,90,Non-polarised capacitor
+C44,100nF,Top,CAPC1005X55N,-37.4351,3.2001,270,Non-polarised capacitor
+C43,1nF,Top,CAPC1005X55N,-8.38,-7.91,90,Non-polarised capacitor
+C42,4.7uF,Top,CAPC1608X87N,-25.6,8.5,270,Non-polarised capacitor
+C41,100nF,Top,CAPC1005X55N,-27.35,7.55,90,Non-polarised capacitor
+C40,100nF,Top,CAPC1005X55N,-27.35,9.45,270,Non-polarised capacitor
+C39,1nF,Top,CAPC1608X90N,7.5,-2.35,270,Non-polarised capacitor
+C31,2.2uF,Top,CAPC1608X90N,39.5333,-16.5618,270,Non-polarised capacitor
+C30,2.2uF,Top,CAPC1608X90N,34.3683,-32.5568,180,Non-polarised capacitor
+C29,100nF,Top,CAPC1005X55N,-27.4,-13.475,0,Non-polarised capacitor
+C28,100nF,Top,CAPC1005X55N,-21.1,27.86,0,Non-polarised capacitor
+C27,100nF,Top,CAPC1005X55N,-34,28.3,0,Non-polarised capacitor
+C26,100nF,Top,CAPC1005X55N,-34.45,-14.875,270,Non-polarised capacitor
+C25,100nF,Top,CAPC1005X55N,-21.85,21.8,90,Non-polarised capacitor
+C17,100nF,Top,CAPC1005X55N,23.2033,-12.6968,0,Non-polarised capacitor
+C15,100nF,Top,CAPC1005X55N,35.0733,-31.2568,180,Non-polarised capacitor
+C13,100nF,Top,CAPC1005X55N,19.6733,-20.7268,90,Non-polarised capacitor
+U1,STM32H753VIT6,Top,QFP50P1600X1600X160-100N,28.9533,-21.9768,0,ARMÂ® CortexÂ®-M7 STM32H7 Microcontroller IC 32-Bit 480MHz 2MB _2M x 8_ FLASH 100-LQFP _14x14_
+R6,100,Top,RESC1005X40N,31.1,5.6142,180,Resistor - 1%
+R10,1k,Top,RESC1005X40N,8.38,4.09,270,Resistor - 1%
+R1,50,Top,RESC1005X40N,-32,19.7,0,Resistor - 1%
+J4,SMA,Top,AMPHENOL_132203,-39.5,23.5,180,
+J1,SMA,Top,AMPHENOL_132203,-39.5,-23.5,180,
+IC10,AS169-73LF,Top,SOT95P270X145-6N,-30.7,28.3,180,PHEMT GaAs IC SPDT Switch 300 KHz-2.5 GHz
+IC4,AS169-73LF,Top,SOT95P270X145-6N,-30.7,17.3,180,PHEMT GaAs IC SPDT Switch 300 KHz-2.5 GHz
+C37,3.3pF,Top,CAPC1005X55N,13.6533,-24.5768,0,Non-polarised capacitor
+C35,100nF,Top,CAPC1005X55N,15.1,-29.4,180,Non-polarised capacitor
+C33,100nF,Top,CAPC1005X55N,19.6733,-24.8168,90,Non-polarised capacitor
+C32,4.7uF,Top,CAPC1608X87N,18.1733,-24.1268,90,Non-polarised capacitor
+C24,100nF,Top,CAPC1005X55N,-29.4,30.7,180,Non-polarised capacitor
+C23,100nF,Top,CAPC1005X55N,-34,-12.525,180,Non-polarised capacitor
+C22,100nF,Top,CAPC1005X55N,-27.4,27.35,0,Non-polarised capacitor
+C21,4.7uF,Top,CAPC1608X87N,38.875,-14,0,Non-polarised capacitor
+C20,4.7uF,Top,CAPC1608X87N,36.9533,-31.8918,270,Non-polarised capacitor
+C19,4.7uF,Top,CAPC1608X87N,23.2033,-11.1968,0,Non-polarised capacitor
+C18,4.7uF,Top,CAPC1608X87N,23.2033,-32.7568,180,Non-polarised capacitor
+C16,100nF,Top,CAPC1005X55N,38.2333,-15.8568,270,Non-polarised capacitor
+C36,3.3pF,Top,CAPC1005X55N,13.6533,-19.5768,180,Non-polarised capacitor
+C38,1nF,Top,CAPC1005X55N,8.38,2.21,270,Non-polarised capacitor
+C11,4.7uF,Top,CAPC1608X87N,18.1733,-27.3268,270,Non-polarised capacitor
+C10,100nF,Top,CAPC1005X55N,19.6733,-26.6368,270,Non-polarised capacitor
+C8,100nF,Top,CAPC1005X55N,-27.4,-24.45,0,Non-polarised capacitor
+C7,100nF,Top,CAPC1005X55N,-21.1,15.74,0,Non-polarised capacitor
+C6,100nF,Top,CAPC1005X55N,-34,17.3,0,Non-polarised capacitor
+C5,100nF,Top,CAPC1005X55N,-34.45,-25.85,270,Non-polarised capacitor
+C4,100nF,Top,CAPC1005X55N,-23.75,21.8,270,Non-polarised capacitor
+C3,100nF,Top,CAPC1005X55N,-29.4,19.7,180,Non-polarised capacitor
+C2,100nF,Top,CAPC1005X55N,-34,-23.5,180,Non-polarised capacitor
+C1,100nF,Top,CAPC1005X55N,-27.4,16.35,0,Non-polarised capacitor
