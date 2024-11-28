@@ -8,3 +8,5 @@ This repository contains the project files and manufacturing outputs for the Fas
   <img src="outputs/images/3d-bottom.png" width="45%" /> 
 </div>
 
+## Output files
+Schematic, BOM and 3D renders are available in the outputs folder aswell as the gerbers and pick and place files needed for assembly. Gerbers and P&P files for both a single board and a 2x2 panel are provided.
